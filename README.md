@@ -54,7 +54,7 @@ $ python manage.py runserver
 $ deactivate
 ```
 
-3. Перейдите в папку infra_sprint1/frontend/ (если находитесь в папке backend):
+3. Перейдите в папку taski/frontend/ (если находитесь в папке backend):
 ```
 $ cd ../frontend
 ```
